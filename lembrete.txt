@@ -1,0 +1,6 @@
+
+comandos no terminao na pasta do projeto
+python -m venv [env_curso]  - criar ambiente virtual
+rodar .\[env_curso]\Scripts/activate - ativar o ambiente virtual
+
+Set-ExecutionPolicy Unrestricted -Force - comando do powershell para habilitar o activate (rodar powershell como adm)
